@@ -66,7 +66,7 @@
 
 
   footer {
-    margin-top: 0.2%;
+    margin-top: 0.1%;
     display: flex;
     justify-content: center;
   }
@@ -75,6 +75,7 @@
   .attribution p {
     text-align: justify;
     padding-top: 1%;
+    padding-bottom: 1%;
   }
 
   .attribution a{
